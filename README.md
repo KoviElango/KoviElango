@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on App building projects
 - 📫 How to reach me: @Kovendhan_E on twitter (or) kovendhanelango@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I told my computer I needed a break, and now it won't stop sending me KitKat ads!
+- ⚡ Fun fact: The first-ever computer game, “Spacewar!,” was created in 1962 by Steve Russell.
