@@ -7,6 +7,6 @@
     <p>😄 Pronouns: He/Him</p>
     <p>⚡ Fun fact: The first-ever computer game, “Spacewar!,” was created in 1962 by Steve Russell.</p>
     <p>Resume: <a href="https://kovielango.github.io/Personal-Website/" target="_blank" style="color: #FFD700;">https://kovielango.github.io/Personal-Website/</a></p>
-    ![me](https://github.com/user-attachments/assets/295eaff5-c9c6-4ead-aa44-71e1b971fe6f)
+    <img src=https://github.com/user-attachments/assets/295eaff5-c9c6-4ead-aa44-71e1b971fe6f/>
 </div>
 
