@@ -1,4 +1,5 @@
-<div align="center">
+<div align="center" style="position: relative; width: 100%; text-align: center; color: white;">
+    <img src="https://pic.longtao.fun/pics/24/8712160154167691113610916885165716016931_gopic_.gif" alt="Background Image" style="width: 100%; height: auto; position: absolute; top: 0; left: 0; z-index: -1; opacity: 0.5;">
     <h1>👋 Hi, I’m @KoviElango</h1>
     <p>👀 I’m interested in Startups, PC building, Astronomy, and Garage projects</p>
     <p>🌱 I’m currently learning Mobile application development (Native Android and Cross Platform)</p>
@@ -7,6 +8,4 @@
     <p>😄 Pronouns: He/Him</p>
     <p>⚡ Fun fact: The first-ever computer game, “Spacewar!,” was created in 1962 by Steve Russell.</p>
     <p>Resume: <a href="https://kovielango.github.io/Personal-Website/" target="_blank" style="color: #FFD700;">https://kovielango.github.io/Personal-Website/</a></p>
-    <img src=https://github.com/user-attachments/assets/295eaff5-c9c6-4ead-aa44-71e1b971fe6f/>
 </div>
-
